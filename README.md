@@ -19,4 +19,4 @@ Para isso o app conta com um sistema de sign In e sign Up onde o usuário cadast
 ![Fluxograma](https://github.com/MarcosCastelo/FinalFashion/blob/master/Flux.png)
 
 ## Camada de Negócio
-Esse arquivo [zip](https://github.com/MarcosCastelo/FinalFashion/blob/master/AppJava.zip) é o modelo de negócio implementado em java puro
+Esse arquivo [zip](https://github.com/MarcosCastelo/FinalFashion/blob/master/JavaApp.zip) é o modelo de negócio implementado em java puro
