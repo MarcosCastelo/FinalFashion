@@ -16,7 +16,7 @@ Para isso o app conta com um sistema de sign In e sign Up onde o usuário cadast
 
 ## Fluxograma do App
 
-![Fluxograma](https://github.com/MarcosCastelo/FinalFashion/blob/master/Flux.png)
+![Fluxograma](https://github.com/MarcosCastelo/FinalFashion/blob/master/Flux.png) StoryBoard.
 
 ## Camada de Negócio
 Esse arquivo [zip](https://github.com/MarcosCastelo/FinalFashion/blob/master/JavaApp.zip) é o modelo de negócio implementado em java puro
