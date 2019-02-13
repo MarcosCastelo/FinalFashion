@@ -15,4 +15,4 @@ O app foi pensado para anúncios de costureiros e estilistas independentes cujo 
 Para isso o app conta com um sistema de sign In e sign Up onde o usuário cadastrado pode fazer novos anúncios, favoritar o anúncio de outros usuários e contactar anunciantes.
 
 ## Fluxograma do App
-
+![Fluxograma](https://github.com/MarcosCastelo/FinalFashion/blob/master/Flux.png)
