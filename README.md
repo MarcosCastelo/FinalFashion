@@ -5,7 +5,7 @@ Final Fashion é uma atividade avaliativa da matéria de POO.
 ## Estrutura
 
 Sendo 5 classes de modelo que relacionam-se entre si, cada classe é dividida em seus métodos e atributos como é mostrado no diagrama: 
-![Diagrama de Classe](https://github.com/MarcosCastelo/FinalFashion/master/ClassDiagram.png)
+![Diagrama de Classe](https://github.com/MarcosCastelo/FinalFashion/blob/master/ClassDiagram.png)
 
 
 ## Funcionalidades
