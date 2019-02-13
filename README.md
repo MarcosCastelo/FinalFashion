@@ -1,2 +1,18 @@
-# FinalFashion
-Projeto Final da matéria de POO
+﻿# Final Fashion
+
+Final Fashion é uma atividade avaliativa da matéria de POO.
+
+## Estrutura
+
+Sendo 5 classes de modelo que relacionam-se entre si, cada classe é dividida em seus métodos e atributos como é mostrado no diagrama: 
+![Diagrama de Classe](https://github.com/MarcosCastelo/FinalFashion/master/ClassDiagram.png)
+
+
+## Funcionalidades
+
+O app foi pensado para anúncios de costureiros e estilistas independentes cujo a visibilidade é limitada.
+
+Para isso o app conta com um sistema de sign In e sign Up onde o usuário cadastrado pode fazer novos anúncios, favoritar o anúncio de outros usuários e contactar anunciantes.
+
+## Fluxograma do App
+
